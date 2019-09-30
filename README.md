@@ -1,5 +1,5 @@
 # Astro-code
-Here is a collection of  scripts I threw together during my time as an undergraduate. Keep in mind this is some fairly primitive code from when I was still learning how to use python. It's up here most for posterity. 
+Here is a collection of  scripts I threw together during my time as an undergraduate. Keep in mind this is some fairly primitive code from when I was still learning how to use python. It's up here mostly for posterity. 
 Feel free to contact me if you have any questions about these scripts! You can reach me at brettbonine1420@gmail.com
 
 'M20.py' is a script designed to calculate the M20 value of astronomical sources in a .FITS from specified from an input region file. 
